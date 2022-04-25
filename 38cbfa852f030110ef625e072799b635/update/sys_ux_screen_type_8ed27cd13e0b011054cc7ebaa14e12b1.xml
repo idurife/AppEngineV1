@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>All Dashboards</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:46:00</sys_created_on>
+        <sys_id>8ed27cd13e0b011054cc7ebaa14e12b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_update_name>sys_ux_screen_type_8ed27cd13e0b011054cc7ebaa14e12b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:46:00</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ed27cd13e0b011054cc7ebaa14e12b1"/>
+</record_update>

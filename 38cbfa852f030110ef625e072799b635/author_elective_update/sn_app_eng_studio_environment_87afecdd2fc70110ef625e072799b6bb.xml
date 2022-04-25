@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_app_eng_studio_environment">
+    <sn_app_eng_studio_environment action="DELETE">
+        <instance_credential display_value="x_647573_app_demo1.INDRA__CICD_DEV_2">e00d689d2fc70110ef625e072799b69e</instance_credential>
+        <instance_url>https://dev58085.service-now.com</instance_url>
+        <name>Dev -Maquina destino</name>
+        <sys_class_name>sn_app_eng_studio_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:32:08</sys_created_on>
+        <sys_id>87afecdd2fc70110ef625e072799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dev -Maquina destino</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_update_name>sn_app_eng_studio_environment_87afecdd2fc70110ef625e072799b6bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:32:08</sys_updated_on>
+    </sn_app_eng_studio_environment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App demo1">38cbfa852f030110ef625e072799b635</application>
+        <file_path/>
+        <instance_id>d0f158e0db85f3c0f492c5970596196a</instance_id>
+        <instance_name>dev82855</instance_name>
+        <name>sn_app_eng_studio_environment_87afecdd2fc70110ef625e072799b6bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_app_eng_studio_environment"><sn_app_eng_studio_environment action="INSERT_OR_UPDATE"><instance_credential display_value="x_647573_app_demo1.INDRA__CICD_DEV_2">e00d689d2fc70110ef625e072799b69e</instance_credential><instance_url>https://dev58085.service-now.com</instance_url><name>Dev -Maquina destino</name><sys_class_name>sn_app_eng_studio_environment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:32:08</sys_created_on><sys_id>87afecdd2fc70110ef625e072799b6bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dev -Maquina destino</sys_name><sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package><sys_policy/><sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope><sys_update_name>sn_app_eng_studio_environment_87afecdd2fc70110ef625e072799b6bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:32:08</sys_updated_on></sn_app_eng_studio_environment></record_update>]]></payload>
+        <payload_hash>-617541682</payload_hash>
+        <record_name>Dev -Maquina destino</record_name>
+        <reverted_from/>
+        <source>81cbfa852f030110ef625e072799b638</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:32:08</sys_created_on>
+        <sys_id>03afecdd2fc70110ef625e072799b6bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180539e59740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:32:08</sys_updated_on>
+        <type>Environment</type>
+        <update_guid>4bafecdd55c70110a30d5485645cd8bc</update_guid>
+        <update_guid_history>4bafecdd55c70110a30d5485645cd8bc:-617541682</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dev -Maquina destino">baf4e28a2f430110ef625e072799b683</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 16:00:06</sys_created_on>
+        <sys_db_object display_value="" name="sn_app_eng_studio_environment">sn_app_eng_studio_environment</sys_db_object>
+        <sys_id>308980f8f371413f9328c3e9380b79f1</sys_id>
+        <sys_metadata>87afecdd2fc70110ef625e072799b6bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dev -Maquina destino</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_scope_delete display_value="">5f5a02458ccd4ba6939b9e4b8751f861</sys_scope_delete>
+        <sys_update_name>sn_app_eng_studio_environment_87afecdd2fc70110ef625e072799b6bb</sys_update_name>
+        <sys_update_version display_value="sn_app_eng_studio_environment_87afecdd2fc70110ef625e072799b6bb">03afecdd2fc70110ef625e072799b6bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 16:00:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

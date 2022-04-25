@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="App demo1 Config">86d27cd1ff0b0110727e3b123ed030b0</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="List">2563f4152f0b0110ef625e072799b6bd</macroponent>
+        <macroponent_config/>
+        <name>Prueba default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Prueba">3d3374152f0b0110ef625e072799b6ec</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:47:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d3374152f0b0110ef625e072799b6f3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Prueba default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_update_name>sys_ux_screen_3d3374152f0b0110ef625e072799b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:48:24</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=3d3374152f0b0110ef625e072799b6f3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App demo1">38cbfa852f030110ef625e072799b635</application>
+        <file_path/>
+        <instance_id>d0f158e0db85f3c0f492c5970596196a</instance_id>
+        <instance_name>dev82855</instance_name>
+        <name>sys_ux_screen_3d3374152f0b0110ef625e072799b6f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="App demo1 Config">86d27cd1ff0b0110727e3b123ed030b0</app_config><description/><event_mappings/><macroponent display_value="List">2563f4152f0b0110ef625e072799b6bd</macroponent><macroponent_config/><name>Prueba default</name><order>0</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><screen_condition/><screen_type display_value="Prueba">3d3374152f0b0110ef625e072799b6ec</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:47:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3d3374152f0b0110ef625e072799b6f3</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Prueba default</sys_name><sys_overrides/><sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package><sys_policy/><sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope><sys_update_name>sys_ux_screen_3d3374152f0b0110ef625e072799b6f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:48:24</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=3d3374152f0b0110ef625e072799b6f3"/></record_update>]]></payload>
+        <payload_hash>310284741</payload_hash>
+        <record_name>Prueba default</record_name>
+        <reverted_from/>
+        <source>81cbfa852f030110ef625e072799b638</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:48:24</sys_created_on>
+        <sys_id>ed63f4152f0b0110ef625e072799b6c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18053ad40f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:48:24</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>2963f415460b0110f7b99bd905a4e0c2</update_guid>
+        <update_guid_history>2963f415460b0110f7b99bd905a4e0c2:310284741,ca337415f60b01107f01a09dce2252f5:1757836593</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:48:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>0c4cc59bc2914100a2ca79b6fd0e5a40</sys_id>
+        <sys_metadata>3d3374152f0b0110ef625e072799b6f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Prueba default</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_scope_delete display_value="">5f5a02458ccd4ba6939b9e4b8751f861</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_3d3374152f0b0110ef625e072799b6f3</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_3d3374152f0b0110ef625e072799b6f3">ed63f4152f0b0110ef625e072799b6c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:48:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

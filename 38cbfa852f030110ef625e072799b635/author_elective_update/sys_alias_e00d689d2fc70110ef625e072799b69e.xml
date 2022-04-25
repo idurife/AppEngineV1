@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_647573_app_demo1.INDRA__CICD_DEV_2</id>
+        <multiple_connections>false</multiple_connections>
+        <name>INDRA  CICD DEV 2</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:20:29</sys_created_on>
+        <sys_id>e00d689d2fc70110ef625e072799b69e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_647573_app_demo1.INDRA__CICD_DEV_2</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_update_name>sys_alias_e00d689d2fc70110ef625e072799b69e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:20:29</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App demo1">38cbfa852f030110ef625e072799b635</application>
+        <file_path/>
+        <instance_id>d0f158e0db85f3c0f492c5970596196a</instance_id>
+        <instance_name>dev82855</instance_name>
+        <name>sys_alias_e00d689d2fc70110ef625e072799b69e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_647573_app_demo1.INDRA__CICD_DEV_2</id><multiple_connections>false</multiple_connections><name>INDRA  CICD DEV 2</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:20:29</sys_created_on><sys_id>e00d689d2fc70110ef625e072799b69e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_647573_app_demo1.INDRA__CICD_DEV_2</sys_name><sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package><sys_policy/><sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope><sys_update_name>sys_alias_e00d689d2fc70110ef625e072799b69e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:20:29</sys_updated_on><type>credential</type></sys_alias></record_update>]]></payload>
+        <payload_hash>598301093</payload_hash>
+        <record_name>x_647573_app_demo1.INDRA__CICD_DEV_2</record_name>
+        <reverted_from/>
+        <source>81cbfa852f030110ef625e072799b638</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:20:29</sys_created_on>
+        <sys_id>2c0d689d2fc70110ef625e072799b69f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1805393aeb70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:20:29</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>640d689d91c701103d3fd29b5387c99f</update_guid>
+        <update_guid_history>640d689d91c701103d3fd29b5387c99f:598301093</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 16:06:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>b3f3b0ae238c4940bd7e0c2cb2d75d84</sys_id>
+        <sys_metadata>e00d689d2fc70110ef625e072799b69e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_647573_app_demo1.INDRA__CICD_DEV_2</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_scope_delete display_value="">5f5a02458ccd4ba6939b9e4b8751f861</sys_scope_delete>
+        <sys_update_name>sys_alias_e00d689d2fc70110ef625e072799b69e</sys_update_name>
+        <sys_update_version display_value="sys_alias_e00d689d2fc70110ef625e072799b69e">2c0d689d2fc70110ef625e072799b69f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 16:06:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

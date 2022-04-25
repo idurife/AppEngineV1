@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_app_eng_studio_pipeline">
+    <sn_app_eng_studio_pipeline action="DELETE">
+        <active>false</active>
+        <dev_environment display_value="Dev -Maquina local">4cdda0dd2fc70110ef625e072799b6c2</dev_environment>
+        <name>Prueba pipeline</name>
+        <prod_environment display_value="Prod">c06a04902fe33010ef625e072799b679</prod_environment>
+        <sys_class_name>sn_app_eng_studio_pipeline</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-23 00:07:10</sys_created_on>
+        <sys_id>a0b778192f0b0110ef625e072799b68a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Prueba pipeline</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_update_name>sn_app_eng_studio_pipeline_a0b778192f0b0110ef625e072799b68a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 15:17:14</sys_updated_on>
+        <test_environment display_value="Dev -Maquina destino">87afecdd2fc70110ef625e072799b6bb</test_environment>
+    </sn_app_eng_studio_pipeline>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App demo1">38cbfa852f030110ef625e072799b635</application>
+        <file_path/>
+        <instance_id>d0f158e0db85f3c0f492c5970596196a</instance_id>
+        <instance_name>dev82855</instance_name>
+        <name>sn_app_eng_studio_pipeline_a0b778192f0b0110ef625e072799b68a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_app_eng_studio_pipeline"><sn_app_eng_studio_pipeline action="INSERT_OR_UPDATE"><active>false</active><dev_environment display_value="Dev -Maquina local">4cdda0dd2fc70110ef625e072799b6c2</dev_environment><name>Prueba pipeline</name><prod_environment display_value="Prod">c06a04902fe33010ef625e072799b679</prod_environment><sys_class_name>sn_app_eng_studio_pipeline</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-23 00:07:10</sys_created_on><sys_id>a0b778192f0b0110ef625e072799b68a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Prueba pipeline</sys_name><sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package><sys_policy/><sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope><sys_update_name>sn_app_eng_studio_pipeline_a0b778192f0b0110ef625e072799b68a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-25 15:17:14</sys_updated_on><test_environment display_value="Dev -Maquina destino">87afecdd2fc70110ef625e072799b6bb</test_environment></sn_app_eng_studio_pipeline></record_update>]]></payload>
+        <payload_hash>921667732</payload_hash>
+        <record_name>Prueba pipeline</record_name>
+        <reverted_from/>
+        <source>4c4d1e402f300110ef625e072799b6cb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 15:17:15</sys_created_on>
+        <sys_id>5f2b5a4e2f030110ef625e072799b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180614c58c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 15:17:15</sys_updated_on>
+        <type>Pipeline</type>
+        <update_guid>972b5a4ec4030110dd223a8938549733</update_guid>
+        <update_guid_history>972b5a4ec4030110dd223a8938549733:921667732,50d7fc197e0b0110665536544abd18ff:1627725659,6cb77459170b0110475bc9a300e407bf:-735578048</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Prueba pipeline">164b9a022f430110ef625e072799b6be</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 15:17:43</sys_created_on>
+        <sys_db_object display_value="" name="sn_app_eng_studio_pipeline">sn_app_eng_studio_pipeline</sys_db_object>
+        <sys_id>0905b259b8644c7183462c7683d13599</sys_id>
+        <sys_metadata>a0b778192f0b0110ef625e072799b68a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Prueba pipeline</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_scope_delete display_value="">5f5a02458ccd4ba6939b9e4b8751f861</sys_scope_delete>
+        <sys_update_name>sn_app_eng_studio_pipeline_a0b778192f0b0110ef625e072799b68a</sys_update_name>
+        <sys_update_version display_value="sn_app_eng_studio_pipeline_a0b778192f0b0110ef625e072799b68a">5f2b5a4e2f030110ef625e072799b633</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 15:17:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="DELETE">
+        <instance_credential display_value="sn_cicd_spoke.CICD">752a91887740001038e286a2681061fb</instance_credential>
+        <instance_id>ww</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://dev58085.service-now.com/</instance_url>
+        <is_controller>false</is_controller>
+        <name>Dev-Isacc</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:03:56</sys_created_on>
+        <sys_id>1fe86c992fc70110ef625e072799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dev-Isacc</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_update_name>sn_pipeline_environment_1fe86c992fc70110ef625e072799b6a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:03:56</sys_updated_on>
+    </sn_pipeline_environment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App demo1">38cbfa852f030110ef625e072799b635</application>
+        <file_path/>
+        <instance_id>d0f158e0db85f3c0f492c5970596196a</instance_id>
+        <instance_name>dev82855</instance_name>
+        <name>sn_pipeline_environment_1fe86c992fc70110ef625e072799b6a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment"><sn_pipeline_environment action="INSERT_OR_UPDATE"><instance_credential display_value="sn_cicd_spoke.CICD">752a91887740001038e286a2681061fb</instance_credential><instance_id>ww</instance_id><instance_type>dev</instance_type><instance_url>https://dev58085.service-now.com/</instance_url><is_controller>false</is_controller><name>Dev-Isacc</name><sys_class_name>sn_pipeline_environment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:03:56</sys_created_on><sys_id>1fe86c992fc70110ef625e072799b6a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dev-Isacc</sys_name><sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package><sys_policy/><sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope><sys_update_name>sn_pipeline_environment_1fe86c992fc70110ef625e072799b6a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:03:56</sys_updated_on></sn_pipeline_environment></record_update>]]></payload>
+        <payload_hash>916750017</payload_hash>
+        <record_name>Dev-Isacc</record_name>
+        <reverted_from/>
+        <source>81cbfa852f030110ef625e072799b638</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:03:56</sys_created_on>
+        <sys_id>1239a0992fc70110ef625e072799b67a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18053848b180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:03:56</sys_updated_on>
+        <type>Environment</type>
+        <update_guid>5a39a099a1c701109c905434c3232b79</update_guid>
+        <update_guid_history>5a39a099a1c701109c905434c3232b79:916750017</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dev-Isacc">1d0b6c1d2fc70110ef625e072799b632</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 23:11:48</sys_created_on>
+        <sys_db_object display_value="" name="sn_pipeline_environment">sn_pipeline_environment</sys_db_object>
+        <sys_id>5121efe293434550b13dd3e71bbd5290</sys_id>
+        <sys_metadata>1fe86c992fc70110ef625e072799b6a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dev-Isacc</sys_name>
+        <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+        <sys_scope_delete display_value="">5f5a02458ccd4ba6939b9e4b8751f861</sys_scope_delete>
+        <sys_update_name>sn_pipeline_environment_1fe86c992fc70110ef625e072799b6a1</sys_update_name>
+        <sys_update_version display_value="sn_pipeline_environment_1fe86c992fc70110ef625e072799b6a1">1239a0992fc70110ef625e072799b67a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 23:11:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

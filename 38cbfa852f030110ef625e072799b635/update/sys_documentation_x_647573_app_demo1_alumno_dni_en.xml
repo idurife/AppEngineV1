@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="dni" label="DNI" language="en" table="x_647573_app_demo1_alumno">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>dni</element>
+            <help/>
+            <hint/>
+            <label>DNI</label>
+            <language>en</language>
+            <name>x_647573_app_demo1_alumno</name>
+            <plural>DNIs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-22 15:08:09</sys_created_on>
+            <sys_id>245c36c52f030110ef625e072799b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DNI</sys_name>
+            <sys_package display_value="App demo1" source="x_647573_app_demo1">38cbfa852f030110ef625e072799b635</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App demo1">38cbfa852f030110ef625e072799b635</sys_scope>
+            <sys_update_name>sys_documentation_x_647573_app_demo1_alumno_dni_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-22 15:08:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
